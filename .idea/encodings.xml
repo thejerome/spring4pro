@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch2/hello-world" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/bean-aliases" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/bean-autowiring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/bean-inheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/bean-instantiation-mode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/cdl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/collections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/constructor-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/dependency-pull" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/method-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/method-replacement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/nesting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3/setter-injection" charset="UTF-8" />
+  </component>
+</project>
